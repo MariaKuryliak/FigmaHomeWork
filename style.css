@@ -1,0 +1,53 @@
+.container{
+    position: relative;
+    /* margin-bottom: 40px; */
+    
+}   
+.uil{
+    display: flex;
+    justify-content: space-between;
+    width: 385px;
+}
+/* .uil uil-plus{
+    border: 1px solid green;
+    background-color: red;
+} */
+input{
+    width: 315px;
+    height: 35px;
+    padding-left: 10px;
+}
+.il{
+    display: flex;
+    width: 315px;
+    justify-content: space-between;
+}
+
+.header{
+    display:flex;
+    width: 375px;
+}
+.web{
+    width: 375px;
+    height: 812px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* position:absolute; */
+    margin-left: 500px;
+    margin-top: 150px;
+    border: 1px solid green;
+}
+/* .l{
+    margin-right: 100px;
+} */
+/* .float-right{
+    display: flex;
+    justify-content: space-between;
+} */
+/* .il{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* width: 315px; */
+/* } */ 
+
+
