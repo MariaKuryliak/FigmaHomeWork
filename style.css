@@ -17,12 +17,15 @@ input{
     height: 35px;
     padding-left: 10px;
 }
+img{
+    float: left;
+    margin-right: 10px;
+}
 .il{
     display: flex;
     width: 315px;
     justify-content: space-between;
 }
-
 .header{
     display:flex;
     width: 375px;
